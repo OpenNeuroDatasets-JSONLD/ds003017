@@ -1,0 +1,6 @@
+{
+  "ignore": [
+    "INCONSISTENT_PARAMETERS",
+    "SUSPICIOUSLY_SHORT_EVENT_DESIGN"
+  ]
+}
