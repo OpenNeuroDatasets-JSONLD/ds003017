@@ -16,7 +16,8 @@
     "License": "CC0",
     "ReferencesAndLinks": [
         "https://github.com/mvdoc/budapest-fmri-data",
-        "https://doi.org/10.1101/2020.07.14.203257",
-        "https://openneuro.org/datasets/ds003017"
+        "https://openneuro.org/datasets/ds003017",
+        "https://doi.org/10.1038/s41597-020-00735-4",
+        "https://doi.org/10.5281/zenodo.3942173"
     ]
 }
